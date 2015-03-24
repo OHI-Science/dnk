@@ -11,9 +11,9 @@ study_area:  Denmark
 git_owner:   OHI-Science
 git_repo:    dnk
 git_slug:    OHI-Science/dnk
-app_url:     http://ohi-science.nceas.ucsb.edu/dnk
+app_url:     https://ohi-science.shinyapps.io/dnk_app
 
-default_branch_scenario: subcountry2014/published
+default_branch_scenario: published/subcountry2014
 
 # Jekyll configuration
 
