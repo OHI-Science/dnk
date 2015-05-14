@@ -4,8 +4,8 @@ branches:
   - draft
 env:
   global:
-  - default_branch_scenario="published/subcountry2014"
-  - study_area="Denmark"
+  - default_branch_scenario: "published/subcountry2014"
+  - study_area: "Denmark"
   - secure: nEUNXQWrA2/t9+4VdvT+WC+6dKV2gjWUs2AbAa7becfjflIJtkP6DH1LDDItq3aKzUlTsHhZRIHsb/as5EV4NPegWa/yLujw+ugSsSDSOoK6YKAWlSQxv0lqA/QtPZZKdd3kGetvBHtItjDaEX9kKjdsEv7jBi2bQVNtUyxsXv0=
 matrix:
   fast_finish: true
